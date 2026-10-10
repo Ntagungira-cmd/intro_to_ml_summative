@@ -1,0 +1,19 @@
+# Tested with Python 3.11 (macOS arm64). Google Colab keeps its own TensorFlow
+# build; the notebook installs the other pinned packages it needs there.
+numpy==2.4.6
+pandas==3.0.6
+scipy==1.17.1
+scikit-learn==1.9.1
+imbalanced-learn==0.14.2
+lightgbm==4.7.0
+tensorflow==2.21.0
+keras==3.15.1
+keras-tuner==1.4.8
+tensorboard==2.21.0
+shap==0.51.0
+matplotlib==3.11.2
+seaborn==0.13.2
+joblib==1.6.0
+requests==2.34.2
+jupyterlab==4.6.4
+ipykernel==7.4.0

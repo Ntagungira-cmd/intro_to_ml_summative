@@ -1,0 +1,22 @@
+# Dataset: download from UCI or the Google Drive link in README)
+data/
+
+# Training artefacts that are large or regenerated on every run
+models/checkpoints/
+models/*_savedmodel/
+tuner_logs/
+*.h5
+*.ckpt*
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
