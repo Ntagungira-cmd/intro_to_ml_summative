@@ -1,0 +1,5 @@
+step,rows_remaining
+raw,101766
+drop gender Unknown/Invalid,101763
+drop expired / hospice discharges,99340
+keep first encounter per patient (option a),69987
