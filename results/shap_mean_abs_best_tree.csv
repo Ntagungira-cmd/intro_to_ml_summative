@@ -1,0 +1,156 @@
+feature,mean_abs_shap
+discharge_disposition_Discharged to home,0.233627967946973
+age_mid,0.08778109715859254
+number_inpatient,0.08485627114317694
+payer_code_Missing,0.07925453024560643
+total_prior_visits,0.07156307298890095
+diag_1_group_Circulatory,0.06826654290203354
+time_in_hospital,0.06286677602269272
+number_diagnoses,0.05495773218218152
+num_lab_procedures,0.054205995754528995
+num_medications,0.04158475143753732
+diabetesMed_No,0.03851634225096246
+discharge_disposition_Discharged/transferred to home with home health service,0.035165466974032035
+diag_1_group_Respiratory,0.03403006369769449
+discharge_disposition_Discharged/transferred to another rehab fac including rehab units of a hospital .,0.03131798549578537
+insulin_No,0.025832088026341377
+discharge_disposition_Discharged/transferred to SNF,0.025091918306218795
+admission_source_Physician Referral,0.02419316877418899
+number_emergency,0.02060836655518668
+n_med_changes,0.01964821369900217
+diag_3_group_Other,0.019609012929186407
+medical_specialty_Cardiology,0.01809831771526974
+diag_2_group_Neoplasms,0.01734913177509386
+diag_1_group_Other,0.01595244704021183
+admission_source_Emergency Room,0.015704571910811215
+diag_1_group_Diabetes,0.015081691323551118
+diag_3_group_Diabetes,0.014969806733041206
+num_procedures,0.014205347985380503
+diabetesMed_Yes,0.01378580908833015
+discharge_disposition_Discharged/transferred to another type of inpatient care institution,0.013486438521651507
+diag_2_group_Diabetes,0.012599266243088873
+medical_specialty_Orthopedics-Reconstructive,0.01217513332667398
+race_Caucasian,0.011707727355558018
+admission_source_Transfer from a hospital,0.011246523197557657
+diag_1_group_Musculoskeletal,0.011226506846140065
+A1Cresult_Not measured,0.010163029406419395
+discharge_disposition_Unknown,0.009633857117578906
+admission_type_Urgent,0.009192508601460486
+admission_type_Emergency,0.008748787046884149
+medical_specialty_Family/GeneralPractice,0.008746527224606903
+number_outpatient,0.008475374814966569
+diag_2_group_Respiratory,0.008252202807036375
+repaglinide_No,0.008029476191046197
+insulin_Down,0.007531305876366793
+pioglitazone_Steady,0.007182852376458177
+payer_code_CP,0.007174843998543775
+metformin_No,0.007136639224223611
+discharge_disposition_Discharged/transferred to another short term hospital,0.00703296186341881
+admission_source_Unknown,0.006719192736735926
+medical_specialty_Emergency/Trauma,0.006703024988429227
+medical_specialty_Missing,0.0062500261089136035
+diag_3_group_Digestive,0.005585757501995312
+diag_3_group_Respiratory,0.00527076192019061
+admission_type_Elective,0.0050980026343083636
+n_diabetes_drugs,0.005087676629723391
+payer_code_MC,0.005050953647347596
+gender_Female,0.0047779529949258355
+diag_2_group_Genitourinary,0.004634725619873017
+diag_3_group_Circulatory,0.0045970271189478
+admission_source_Clinic Referral,0.004595076742357371
+diag_2_group_Circulatory,0.004518557383726414
+metformin_Steady,0.004365062314604637
+diag_3_group_Neoplasms,0.004268671596448301
+gender_Male,0.0037877271274649195
+race_Other,0.003732791584011598
+insulin_Up,0.0035418219562073482
+medical_specialty_InternalMedicine,0.003474559916169187
+diag_2_group_Digestive,0.0032186694331329275
+diag_2_group_Other,0.003084695754643679
+glipizide_No,0.002757602298860415
+payer_code_HM,0.002639874765843967
+diag_1_group_Injury,0.002340681733096556
+diag_2_group_Injury,0.0021820957082324182
+insulin_Steady,0.0021816727972200343
+medical_specialty_Nephrology,0.0021803005919826418
+race_AfricanAmerican,0.00214470697576374
+A1Cresult_>8,0.0020517638529286538
+medical_specialty_Other,0.0019794075468930142
+payer_code_CM,0.0019672810538179913
+admission_source_Other,0.0018513592761138294
+metformin_Up,0.0018429603416033878
+admission_type_Unknown,0.0018113959433632772
+race_Missing,0.0017634276679848893
+change_Ch,0.0017508612817770856
+A1Cresult_Norm,0.0016419356601411407
+diag_1_group_Genitourinary,0.001637817749451475
+glimepiride_Steady,0.0014585542781265057
+discharge_disposition_Other,0.0013457805014832
+diag_1_group_Digestive,0.0012760784353573907
+payer_code_BC,0.0011473005130835188
+glipizide_Steady,0.001143437063813864
+diag_2_group_Musculoskeletal,0.0011287296726571396
+glyburide_Steady,0.000973778443989136
+glyburide_No,0.0009220560972171745
+glimepiride_No,0.0008931929490303623
+diag_3_group_Genitourinary,0.0008702754223712416
+medical_specialty_Surgery-General,0.0008157181549757101
+A1Cresult_>7,0.0007230189304694943
+pioglitazone_No,0.0006993152501332607
+glipizide_Down,0.0006827213401651915
+acarbose_Steady,0.0006795518046005185
+metformin_Down,0.0006756434916900776
+glimepiride_Down,0.0006223171095524166
+diag_3_group_Musculoskeletal,0.0005786630087010889
+rosiglitazone_No,0.0005766044320464171
+payer_code_SP,0.0005589774474408596
+change_No,0.0005449340935443052
+max_glu_serum_Not measured,0.0004916526491644663
+diag_1_group_Neoplasms,0.0004752226870424139
+glyburide_Up,0.00046808509602042005
+payer_code_MD,0.00044997806214452826
+rosiglitazone_Steady,0.0004166867998415798
+race_Asian,0.0004094026812169636
+medical_specialty_Orthopedics,0.0003831212568762493
+glyburide-metformin_No,0.00030773565832051784
+max_glu_serum_>200,0.00028795751781138755
+glyburide-metformin_Steady,0.0002610290553116526
+payer_code_UN,0.00025360292578040797
+diag_3_group_Injury,0.0002199141547964492
+payer_code_OG,0.00018091494105802766
+admission_source_Transfer from another health care facility,0.00014019072949636745
+payer_code_PO,0.0001347886055717199
+repaglinide_Steady,0.00012721954118727468
+max_glu_serum_>300,0.00012639793059304331
+nateglinide_No,0.00010416892220469698
+diag_3_group_Missing,8.312028902951305e-05
+acarbose_No,7.858611329086765e-05
+max_glu_serum_Norm,6.135011618179178e-05
+diag_2_group_Missing,6.119036795468396e-05
+medical_specialty_Radiologist,6.036360955747744e-05
+payer_code_SI,0.0
+payer_code_OT,0.0
+payer_code_MP,0.0
+payer_code_FR,0.0
+payer_code_DM,0.0
+payer_code_CH,0.0
+race_Hispanic,0.0
+rosiglitazone_Up,0.0
+pioglitazone_Down,0.0
+payer_code_WC,0.0
+nateglinide_Down,0.0
+glimepiride_Up,0.0
+diag_1_group_Missing,0.0
+glipizide_Up,0.0
+nateglinide_Up,0.0
+nateglinide_Steady,0.0
+glyburide_Down,0.0
+repaglinide_Up,0.0
+acarbose_Up,0.0
+repaglinide_Down,0.0
+glyburide-metformin_Up,0.0
+pioglitazone_Up,0.0
+glyburide-metformin_Down,0.0
+admission_type_Newborn,0.0
+admission_type_Trauma Center,0.0
+rosiglitazone_Down,0.0
