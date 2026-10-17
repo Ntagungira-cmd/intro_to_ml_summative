@@ -1,0 +1,147 @@
+{
+  "best_traditional_model": {
+    "name": "LightGBM",
+    "f1_threshold": 0.13301725504616818,
+    "val_f1_at_f1_threshold": 0.25040387722132473,
+    "val_precision_at_f1_threshold": 0.20221787345075015,
+    "val_recall_at_f1_threshold": 0.32873806998939553,
+    "target_recall": 0.7,
+    "recall_threshold": 0.07118871074556676,
+    "val_precision_at_recall_threshold": 0.11220505856391105,
+    "val_recall_at_recall_threshold": 0.7009544008483564
+  },
+  "best_dl_model": {
+    "name": "exp4b_focal_loss",
+    "input": "embedding",
+    "f1_threshold": 0.43577316403388977,
+    "val_f1_at_f1_threshold": 0.23963963963963963,
+    "val_precision_at_f1_threshold": 0.20830070477682067,
+    "val_recall_at_f1_threshold": 0.28207847295864263,
+    "target_recall": 0.7,
+    "recall_threshold": 0.3690434694290161,
+    "val_precision_at_recall_threshold": 0.11343744637034495,
+    "val_recall_at_recall_threshold": 0.7009544008483564
+  },
+  "all_models": {
+    "Dummy": {
+      "f1_threshold": 0.08979383547662788,
+      "val_f1_at_f1_threshold": 0.16484573026833318,
+      "val_precision_at_f1_threshold": 0.08982663364450372,
+      "val_recall_at_f1_threshold": 1.0,
+      "target_recall": 0.7,
+      "recall_threshold": 0.08979383547662788,
+      "val_precision_at_recall_threshold": 0.08982663364450372,
+      "val_recall_at_recall_threshold": 1.0
+    },
+    "LogReg": {
+      "f1_threshold": 0.1379050116182043,
+      "val_f1_at_f1_threshold": 0.2331720193576771,
+      "val_precision_at_f1_threshold": 0.19924812030075187,
+      "val_recall_at_f1_threshold": 0.28101802757158006,
+      "target_recall": 0.7,
+      "recall_threshold": 0.07037164069716836,
+      "val_precision_at_recall_threshold": 0.11277938918273332,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "RandomForest": {
+      "f1_threshold": 0.1270877148007449,
+      "val_f1_at_f1_threshold": 0.24378109452736316,
+      "val_precision_at_f1_threshold": 0.2001361470388019,
+      "val_recall_at_f1_threshold": 0.3117709437963945,
+      "target_recall": 0.7,
+      "recall_threshold": 0.0800304237173033,
+      "val_precision_at_recall_threshold": 0.11485664639443961,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "HistGB": {
+      "f1_threshold": 0.12806574052787092,
+      "val_f1_at_f1_threshold": 0.24679860302677534,
+      "val_precision_at_f1_threshold": 0.19461444308445533,
+      "val_recall_at_f1_threshold": 0.3372216330858961,
+      "target_recall": 0.7,
+      "recall_threshold": 0.07212728492379597,
+      "val_precision_at_recall_threshold": 0.11312681841519767,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "LightGBM": {
+      "f1_threshold": 0.13301725504616818,
+      "val_f1_at_f1_threshold": 0.25040387722132473,
+      "val_precision_at_f1_threshold": 0.20221787345075015,
+      "val_recall_at_f1_threshold": 0.32873806998939553,
+      "target_recall": 0.7,
+      "recall_threshold": 0.07118871074556676,
+      "val_precision_at_recall_threshold": 0.11220505856391105,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "LinearSVM": {
+      "f1_threshold": 0.10997624130006466,
+      "val_f1_at_f1_threshold": 0.23909985935302386,
+      "val_precision_at_f1_threshold": 0.17885323513940032,
+      "val_recall_at_f1_threshold": 0.3605514316012725,
+      "target_recall": 0.7,
+      "recall_threshold": 0.07125548086177225,
+      "val_precision_at_recall_threshold": 0.1111111111111111,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "exp1_baseline_mlp": {
+      "f1_threshold": 0.1471346914768219,
+      "val_f1_at_f1_threshold": 0.23950508174988955,
+      "val_precision_at_f1_threshold": 0.2053030303030303,
+      "val_recall_at_f1_threshold": 0.2873806998939555,
+      "target_recall": 0.7,
+      "recall_threshold": 0.06811384856700897,
+      "val_precision_at_recall_threshold": 0.11312681841519767,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "exp2_deep_mlp": {
+      "f1_threshold": 0.16578970849514008,
+      "val_f1_at_f1_threshold": 0.24532374100719423,
+      "val_precision_at_f1_threshold": 0.18562874251497005,
+      "val_recall_at_f1_threshold": 0.3616118769883351,
+      "target_recall": 0.7,
+      "recall_threshold": 0.07685016095638275,
+      "val_precision_at_recall_threshold": 0.11457791644999134,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "exp3_embedding_model": {
+      "f1_threshold": 0.16819114983081818,
+      "val_f1_at_f1_threshold": 0.24467245461720602,
+      "val_precision_at_f1_threshold": 0.19484600879949718,
+      "val_recall_at_f1_threshold": 0.32873806998939553,
+      "target_recall": 0.7,
+      "recall_threshold": 0.08089623600244522,
+      "val_precision_at_recall_threshold": 0.11193903471634209,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "exp3_tuned_embedding": {
+      "f1_threshold": 0.13858698308467865,
+      "val_f1_at_f1_threshold": 0.23711340206185566,
+      "val_precision_at_f1_threshold": 0.18936035465484483,
+      "val_recall_at_f1_threshold": 0.3170731707317073,
+      "target_recall": 0.7,
+      "recall_threshold": 0.0656219944357872,
+      "val_precision_at_recall_threshold": 0.10909390988611982,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "exp4a_class_weights": {
+      "f1_threshold": 0.5934673547744751,
+      "val_f1_at_f1_threshold": 0.24548736462093862,
+      "val_precision_at_f1_threshold": 0.18609742747673783,
+      "val_recall_at_f1_threshold": 0.3605514316012725,
+      "target_recall": 0.7,
+      "recall_threshold": 0.43144410848617554,
+      "val_precision_at_recall_threshold": 0.11226222826086957,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    },
+    "exp4b_focal_loss": {
+      "f1_threshold": 0.43577316403388977,
+      "val_f1_at_f1_threshold": 0.23963963963963963,
+      "val_precision_at_f1_threshold": 0.20830070477682067,
+      "val_recall_at_f1_threshold": 0.28207847295864263,
+      "target_recall": 0.7,
+      "recall_threshold": 0.3690434694290161,
+      "val_precision_at_recall_threshold": 0.11343744637034495,
+      "val_recall_at_recall_threshold": 0.7009544008483564
+    }
+  }
+}
