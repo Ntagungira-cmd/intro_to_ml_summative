@@ -121,9 +121,6 @@ Values from `results/test_comparison_report_table.csv`, each model at its valida
 ├── requirements.txt
 └── .gitignore
 ```
-
-If `best_traditional_model.joblib` is over GitHub's 100 MB limit (possible when a Random Forest wins), upload it to Google Drive and link it here instead.
-
 ## Inference
 
 The last section of the notebook loads the saved models from `models/` and scores a few raw rows of `diabetic_data.csv`:
